@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://www.dropbox.com/s/p9rwo18bx84kt4n/export.pkl?dl=1'
+export_file_url = 'https://www.dropbox.com/s/eazgtvixffn408o/export.pkl?dl=1'
 export_file_name = 'export.pkl'
 
 classes = ['judo', 'bjj']
